@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **dianapaulatq@hotmail.com**
 
-- 📄 Know about my experiences [My current job is as a mobile developer in Flutter. My previous experiences are as a junior consultant and as a telephone agent.](My current job is as a mobile developer in Flutter. My previous experiences are as a junior consultant and as a telephone agent.)
+- 📄 Know about my experiences(My current job is as a mobile developer in Flutter. My previous experiences are as a junior consultant and as a telephone agent.)
 
 - ⚡ Fun fact **I like to know about historical curiosities**
 
